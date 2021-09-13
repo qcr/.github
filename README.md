@@ -35,9 +35,7 @@ To use a QCR workflow in a private QCR managed repository:
 
 ![DIY Workflow](/media/diy.png)
 
-4. Delete the automatically generated content, and replace it with content of the workflow found in ``/workflow-templates``
-
-![Selecting Workflow](/media/update.png)
+4. Delete the automatically generated content, and replace it with content of the workflow found in ``/workflow-templates`` similar to step 4 in the public repository instructions.
 
 ## Available Workflows
 
