@@ -1,0 +1,9 @@
+{
+    "name": "QCR Debian Release Workflow",
+    "description": "The QCR Debian Release workflow builds Debian releases from catkinised packages and uploads them to the QCR Repositories",
+    "iconName": "qcr",
+    "categories": [
+        "Python",
+        "C++"
+    ]
+}
